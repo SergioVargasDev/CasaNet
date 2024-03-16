@@ -26,8 +26,8 @@ The CasaNet system was meticulously designed to offer precise real-time measurem
 ![WEB_PAGE](images/arduino.jpg)
 ![WEB_PAGE](images/web.jpg)
 ![WEB_PAGE](images/web_2.jpg)
-![WEB_PAGE](images/light_meter.jpg)
-![WEB_PAGE](images/light_meter_2.jpg)
+![WEB_PAGE](images/lightmeter.jpg)
+![WEB_PAGE](images/lightmeter_2.jpg)
 
 
 
