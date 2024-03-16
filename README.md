@@ -21,6 +21,17 @@ CasaNet emphasizes energy efficiency to reduce greenhouse gas emissions, alignin
 
 The CasaNet system was meticulously designed to offer precise real-time measurements of electrical consumption, ensuring the photoresistor sensor's effective connectivity with the microcontroller. We carefully calibrated the system to align measurements with actual consumption rates and scrutinized the accuracy of real-time electrical cost calculations. The flash counter's ability to accurately reflect electrical activity was thoroughly evaluated, alongside its synchronization with other measurements, demonstrating the system's effectiveness in sensor precision, cost calculation algorithms, and real-time activity reflection.
 
+## Web Page
+ ![WEB_PAGE](login.jpg)
+ ![WEB_PAGE](web.jpg)
+ ![WEB_PAGE](web_2.jpg)
+ ![WEB_PAGE](light_meter.jpg)
+  ![WEB_PAGE](light_meter_2.jpg)
+
+
+
+ 
+
 
 
 
