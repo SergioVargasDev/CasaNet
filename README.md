@@ -1,5 +1,7 @@
 # CasaNet: Smart Home Energy Management for Sustainable Living
 
+## Purpose:
+
 CasaNet addresses the critical global issue of greenhouse gas emissions from energy usage, which constitutes about 70% of the global total, with energy generation and heat supply contributing significantly. This IoT-based project is designed to enhance energy efficiency in residential settings without compromising comfort, providing a cost-effective solution aligned with the Sustainable Development Goal (SDG) 11 for Sustainable Cities and Communities.
 
 ## Techonological Integration:
