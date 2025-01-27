@@ -24,6 +24,10 @@ CasaNet emphasizes energy efficiency to reduce greenhouse gas emissions, alignin
 
 The CasaNet system was meticulously designed to offer precise real-time measurements of electrical consumption, ensuring the photoresistor sensor's effective connectivity with the microcontroller. We carefully calibrated the system to align measurements with actual consumption rates and scrutinized the accuracy of real-time electrical cost calculations. The flash counter's ability to accurately reflect electrical activity was thoroughly evaluated, alongside its synchronization with other measurements, demonstrating the system's effectiveness in sensor precision, cost calculation algorithms, and real-time activity reflection.
 
+## Contribution: 
+The introduction of MiColoniaShop is expected to positively impact the affected percentages, leading to a decrease in the rate of store closures and financial losses within the local grocery sector.
+
+
 ## Web Page
 ![WEB_PAGE](images/login.jpg)
 ![WEB_PAGE](images/arduino.jpg)
