@@ -34,10 +34,12 @@ The introduction of MiColoniaShop is expected to positively impact the affected 
  <img src = "images/login.jpg" width = 412)>
 </div>
 
-### Terminval Data
+### Terminal Data
 <div align = "center">
  <img src = "images/arduino.jpg" width = 412)>
 </div>
+
+### 
 
 ![WEB_PAGE](images/web.jpg)
 ![WEB_PAGE](images/web_2.jpg)
