@@ -1,5 +1,8 @@
 # CasaNet: Smart Home Energy Management for Sustainable Living
 
+## Overivew
+CasaNet is a web app for smart home energy management, using IoT and real-time data to optimize energy consumption while maintaining comfort. It empowers users with insights to reduce energy waste, supporting sustainability and aligning with SDG 11.
+
 ## Purpose
 
 CasaNet addresses the critical global issue of greenhouse gas emissions from energy usage, which constitutes about 70% of the global total, with energy generation and heat supply contributing significantly. This IoT-based project is designed to enhance energy efficiency in residential settings without compromising comfort, providing a cost-effective solution aligned with the Sustainable Development Goal (SDG) 11 for Sustainable Cities and Communities.
