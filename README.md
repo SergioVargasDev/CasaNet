@@ -4,7 +4,7 @@
 
 CasaNet addresses the critical global issue of greenhouse gas emissions from energy usage, which constitutes about 70% of the global total, with energy generation and heat supply contributing significantly. This IoT-based project is designed to enhance energy efficiency in residential settings without compromising comfort, providing a cost-effective solution aligned with the Sustainable Development Goal (SDG) 11 for Sustainable Cities and Communities.
 
-## Techonological Integration
+## Technology Stack
 
 * Combines the capabilities of Arduino and NodeMCU with ESP8266 for robust signal processing, offering a powerful foundation for the IoT functionalities of CasaNet.
 * Employs a photoresistor sensor for capturing light meter flashes, translating these into accurate real-time measurements of energy usage in kWh and providing insights into associated costs.
