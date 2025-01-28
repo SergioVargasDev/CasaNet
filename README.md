@@ -39,10 +39,12 @@ The introduction of MiColoniaShop is expected to positively impact the affected 
  <img src = "images/arduino.jpg" width = 412)>
 </div>
 
-### 
+### Light Consumption Statistics
 
-![WEB_PAGE](images/web.jpg)
-![WEB_PAGE](images/web_2.jpg)
+<img src = "images/web.jpg" width = 412> <img src = "web 2.jpg" width = 412>
+
+
+
 ![WEB_PAGE](images/light.jpg)
 ![WEB_PAGE](images/light2.jpg)
 
