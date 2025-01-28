@@ -45,7 +45,7 @@ The introduction of MiColoniaShop is expected to positively impact the affected 
 
 ### Prototype
 
-<img src = "images/light.jpg" width = 412> <img src = "images/light_2.jpg" width = 412>
+<img src = "images/light.jpg" width = 412> <img src = "images/light2.jpg" width = 412>
 
 ## Outcome:
 
