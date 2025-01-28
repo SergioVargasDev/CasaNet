@@ -27,8 +27,14 @@ The CasaNet system was meticulously designed to offer precise real-time measurem
 ## Contribution
 The introduction of MiColoniaShop is expected to positively impact the affected percentages, leading to a decrease in the rate of store closures and financial losses within the local grocery sector.
 
-
 ## Web Page
+
+### Home/Login
+<div>
+ <img src = "images/login.jpg" width = 412)>
+</div>
+
+
 ![WEB_PAGE](images/login.jpg)
 ![WEB_PAGE](images/arduino.jpg)
 ![WEB_PAGE](images/web.jpg)
