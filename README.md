@@ -36,7 +36,7 @@ The introduction of MiColoniaShop is expected to positively impact the affected 
 
 ### Terminval Data
 <div align = "center">
- <img src = "images/arduino" width = 412)>
+ <img src = "images/arduino.jpg" width = 412)>
 </div>
 
 ![WEB_PAGE](images/web.jpg)
