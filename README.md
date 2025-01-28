@@ -6,11 +6,17 @@ CasaNet addresses the critical global issue of greenhouse gas emissions from ene
 
 ## Technology Stack
 
-* Combines the capabilities of Arduino and NodeMCU with ESP8266 for robust signal processing, offering a powerful foundation for the IoT functionalities of CasaNet.
-* Employs a photoresistor sensor for capturing light meter flashes, translating these into accurate real-time measurements of energy usage in kWh and providing insights into associated costs.
-* Utilizes Firebase for secure, scalable data storage, ensuring that all energy consumption data is systematically organized, easily accessible, and reliable.
-* Develops a user-friendly interface with HTML, CSS, and JavaScript, facilitating intuitive interaction and data visualization.
-This approach ensures seamless user experiences across both web and mobile platforms, making energy management accessible to all.
+### Front-End: 
+HTML, CSS & JavaScript: Develops a user-friendly interface, facilitating intuitive interaction and data visualization. Ensures seamless experiences across web and mobile platforms.
+
+### Back-end:
+Arduino & NodeMCU with ESP8266: Powers robust signal processing and forms the foundation for IoT functionalities.
+
+### Database:
+Firebase: Provides secure and scalable data storage, organizing energy consumption data systematically for reliability and easy access.
+
+### Sensors: 
+Photoresistor Sensor: Captures light meter flashes and translates them into real-time measurements of energy usage in kWh, along with cost insights.
 
 ## Objective & Hypothesis
 
