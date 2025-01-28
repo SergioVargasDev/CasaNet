@@ -35,7 +35,6 @@ The introduction of MiColoniaShop is expected to positively impact the affected 
 </div>
 
 
-![WEB_PAGE](images/login.jpg)
 ![WEB_PAGE](images/arduino.jpg)
 ![WEB_PAGE](images/web.jpg)
 ![WEB_PAGE](images/web_2.jpg)
