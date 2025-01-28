@@ -30,7 +30,7 @@ The introduction of MiColoniaShop is expected to positively impact the affected 
 ## Web Page
 
 ### Home/Login
-<div align = "center>
+<div align = "center">
  <img src = "images/login.jpg" width = 412)>
 </div>
 
