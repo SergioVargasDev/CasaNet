@@ -16,19 +16,19 @@ CasaNet addresses the critical global issue of greenhouse gas emissions from ene
 * Sustainability Education: Provides insights on how energy consumption impacts the environment.
 
 ## Technology Stack:
-###Front-end:
+### Front-end:
 HTML, CSS, JavaScript​: Builds a responsive and user-friendly interface for seamless interaction.
 
-###Back-end & Database:
+### Back-end & Database:
 Firebase: Provides secure, real-time, and scalable cloud storage.
 
-###AI Integration:
+### AI Integration:
 OpenAI & Machine Learning: Optimizes energy use with intelligent insights.
 
-###Hardware:
+### Hardware:
 Arduino & NodeMCU with ESP8266: Handles real-time data processing for smart energy management.
 
-###Sensors:
+### Sensors:
 Photoresistor Sensor: Measures real-time energy consumption by detecting light meter flashes.
 
 ## Objective & Hypothesis
