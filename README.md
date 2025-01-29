@@ -7,19 +7,20 @@ CasaNet is a web app for smart home energy management, using IoT and real-time d
 
 CasaNet addresses the critical global issue of greenhouse gas emissions from energy usage, which constitutes about 70% of the global total, with energy generation and heat supply contributing significantly. This IoT-based project is designed to enhance energy efficiency in residential settings without compromising comfort, providing a cost-effective solution aligned with the Sustainable Development Goal (SDG) 11 for Sustainable Cities and Communities.
 
-## Technology Stack
+## Key Features:
+*Real-time Energy Monitoring: Captures real-time energy usage in kWh and provides cost insights.
+*IoT Integration: Uses Arduino and NodeMCU with ESP8266 for efficient signal processing and data collection.
+*Smart Sensor System: A photoresistor sensor detects light meter flashes to track energy consumption.
+*User Dashboard: Displays interactive energy analytics and historical trends for informed decision-making.
+*AI-Powered Insights: Integrates OpenAI and machine learning for smart energy recommendations.
+*Sustainability Education: Provides insights on how energy consumption impacts the environment.
 
-### Front-End: 
-HTML, CSS & JavaScript: Develops a user-friendly interface, facilitating intuitive interaction and data visualization. Ensures seamless experiences across web and mobile platforms.
-
-### Back-end:
-Arduino & NodeMCU with ESP8266: Powers robust signal processing and forms the foundation for IoT functionalities.
-
-### Database:
-Firebase: Provides secure and scalable data storage, organizing energy consumption data systematically for reliability and easy access.
-
-### Sensors: 
-Photoresistor Sensor: Captures light meter flashes and translates them into real-time measurements of energy usage in kWh, along with cost insights.
+## Technology Stack:
+*Hardware: Arduino, NodeMCU with ESP8266 for real-time data processing.
+*Sensors: Photoresistor sensor to measure light meter flashes and calculate energy usage.
+*Back-end & Database: Firebase for secure and scalable data storage.
+*Front-end: HTML, CSS, JavaScript for a responsive and user-friendly interface.
+*AI Integration: OpenAI & Machine Learning for intelligent energy optimization.
 
 ## Objective & Hypothesis
 
