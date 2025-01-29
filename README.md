@@ -36,6 +36,10 @@ The CasaNet system was meticulously designed to offer precise real-time measurem
 ## Contribution
 The introduction of MiColoniaShop is expected to positively impact the affected percentages, leading to a decrease in the rate of store closures and financial losses within the local grocery sector.
 
+## Outcome:
+
+CasaNet successfully demonstrates the potential of connected networks based on inhabitant behavior to optimize household energy needs, enhancing safety, efficiency, and comfort. The system provides real-time accurate measurements of electrical consumption, effectively connects the photoresistor sensor with the microcontroller for flash counting, and accurately calculates real-time energy costs, showcasing the precision of sensors and the synchronization of flash counting with real-time electrical activity.
+
 ## Web Page
 
 ### Home/Login
@@ -55,7 +59,3 @@ The introduction of MiColoniaShop is expected to positively impact the affected 
 ### Prototype
 
 <img src = "images/light.jpg" width = 412> <img src = "images/light2.jpg" width = 412>
-
-## Outcome:
-
-CasaNet successfully demonstrates the potential of connected networks based on inhabitant behavior to optimize household energy needs, enhancing safety, efficiency, and comfort. The system provides real-time accurate measurements of electrical consumption, effectively connects the photoresistor sensor with the microcontroller for flash counting, and accurately calculates real-time energy costs, showcasing the precision of sensors and the synchronization of flash counting with real-time electrical activity.
