@@ -49,5 +49,3 @@ The introduction of MiColoniaShop is expected to positively impact the affected 
 ## Outcome:
 
 CasaNet successfully demonstrates the potential of connected networks based on inhabitant behavior to optimize household energy needs, enhancing safety, efficiency, and comfort. The system provides real-time accurate measurements of electrical consumption, effectively connects the photoresistor sensor with the microcontroller for flash counting, and accurately calculates real-time energy costs, showcasing the precision of sensors and the synchronization of flash counting with real-time electrical activity.
-
-## Web Page
